@@ -18,9 +18,9 @@ This is a prototype for cross-linguistic semantic similarity based on a Siamese 
 
 - The model has not been benchmarked against state-of-the-art multilingual transformer models.
 - Hyperparameter tuning is limited with no optimization for maximal performance.
-- Training and evaluation are conducted on a subset of available language pairs.
 - Scalability, memory efficiency, and deployment aspects have not been engineered for large-scale or real-time applications.
 - No formal error analysis across all 42 target languages is provided.
+- The dataset would need to be significantly larger to support real-world applications.
 
 This code should therefore be considered a simple proof of concept rather than a production-ready system.
 
