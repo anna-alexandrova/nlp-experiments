@@ -25,3 +25,7 @@ The implementation is designed for experimentation and methodological exploratio
 - No formal error analysis across all 42 target languages is provided.
 
 This code should therefore be considered a proof-of-concept rather than a production-ready system.
+
+## Environment
+
+This notebook is designed to be run on Google Colab.
